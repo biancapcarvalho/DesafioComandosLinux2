@@ -59,3 +59,7 @@ rm -fr foo
 <br>
 
 #### 7. (B) Print the text "Hello World".
+
+```bash
+echo "Hello World"
+```
