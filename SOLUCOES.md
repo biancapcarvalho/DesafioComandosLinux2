@@ -63,3 +63,7 @@ rm -fr foo
 ```bash
 echo "Hello World"
 ```
+
+<br>
+
+#### 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
