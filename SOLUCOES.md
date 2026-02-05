@@ -75,5 +75,5 @@ echo "Hello World" > hello.txt
 #### 9. (B) Create an empty file named "empty.txt"
 
 ```bash
-
+touch empty.txt
 ```
