@@ -16,7 +16,5 @@ tar -xf challenges.tar.gz
 #### 2. (B) Change your working directory to the "challenges" directory that was created when you extracted "challenges.tar.gz"
 
 ```bash
-
+cd challenges
 ```
-
-> *Anotações:*
