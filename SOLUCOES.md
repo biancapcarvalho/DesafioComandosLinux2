@@ -29,3 +29,11 @@ ls
 
 > *Anotações:* A saída do comando foi <br>
 > bunch_of_files  challenge_20  compile_me.c  greeting1.txt  greeting2.txt  hello_executable  people.csv  redirect  restricted.txt
+
+<br>
+
+#### 4. (B) Create a new directory named "foo".
+
+```bash
+mkdir foo
+```
