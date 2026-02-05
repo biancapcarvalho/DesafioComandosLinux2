@@ -55,3 +55,11 @@ rm -fr foo
 ```
 
 > *Anotações:* a flag ```r``` é usada para apagar subdiretórios, e a ```f``` para não pedir confirmação
+
+<br>
+
+#### 7. (B) Print the text "Hello World".
+
+```bash
+echo "Hello World"
+```
