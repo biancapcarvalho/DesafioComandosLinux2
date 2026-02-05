@@ -18,3 +18,11 @@ tar -xf challenges.tar.gz
 ```bash
 cd challenges
 ```
+
+<br>
+
+#### 3. (B) List the contents of the "challenges" directory.
+
+```bash
+
+```
