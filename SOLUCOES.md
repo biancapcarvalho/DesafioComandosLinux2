@@ -37,3 +37,11 @@ ls
 ```bash
 mkdir foo
 ```
+
+<br>
+
+#### 5. (I) Create a new directory named "foo/bar/1/2/3"
+
+```bash
+mkdir -p foo/bar/1/2/3
+```
