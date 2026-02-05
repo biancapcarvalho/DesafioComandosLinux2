@@ -8,7 +8,7 @@
 tar -xf challenges.tar.gz
 ```
 
-> *Anotações:* Como primeira tentativa tentei tar -x challenges.tar.gz e não funcionou
+> *Anotações:* Como primeira tentativa tentei tar -x challenges.tar.gz e não funcionou <br>
 > O comando tar é antigo e seu alvo eram fitas magnéticas, deve-se usar a flag f para indicar que é um arquivo específico
 
 <br>
@@ -24,5 +24,8 @@ cd challenges
 #### 3. (B) List the contents of the "challenges" directory.
 
 ```bash
-
+ls
 ```
+
+> *Anotações:* A saída do comando foi <br>
+> bunch_of_files  challenge_20  compile_me.c  greeting1.txt  greeting2.txt  hello_executable  people.csv  redirect  restricted.txt
