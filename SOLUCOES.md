@@ -45,3 +45,13 @@ mkdir foo
 ```bash
 mkdir -p foo/bar/1/2/3
 ```
+
+<br>
+
+#### 6. (B) Remove the directory "foo" and all of its contents
+
+```bash
+rm -fr foo
+```
+
+> *Anotações:* a flag ```r``` é usada para apagar subdiretórios, e a ```f``` para não pedir confirmação
