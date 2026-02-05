@@ -45,3 +45,11 @@ mkdir foo
 ```bash
 mkdir -p foo/bar/1/2/3
 ```
+
+<br>
+
+#### 6. (B) Remove the directory "foo" and all of its contents
+
+```bash
+
+```
