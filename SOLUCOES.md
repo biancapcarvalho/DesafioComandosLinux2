@@ -77,3 +77,9 @@ echo "Hello World" > hello.txt
 ```bash
 touch empty.txt
 ```
+
+#### 10. (B) Remove the file "empty.txt"
+
+```bash
+
+```
