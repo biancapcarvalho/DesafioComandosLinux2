@@ -81,5 +81,5 @@ touch empty.txt
 #### 10. (B) Remove the file "empty.txt"
 
 ```bash
-
+rm empty.txt
 ```
