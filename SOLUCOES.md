@@ -35,5 +35,5 @@ ls
 #### 4. (B) Create a new directory named "foo".
 
 ```bash
-
+mkdir foo
 ```
