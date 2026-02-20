@@ -103,5 +103,5 @@ mv goodbye.txt hello_copy.txt
 #### 15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are identical.
 
 ```bash
-
+diff hello.txt hello_copy.txt
 ```
