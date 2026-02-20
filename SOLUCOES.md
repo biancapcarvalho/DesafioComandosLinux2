@@ -101,3 +101,9 @@ echo -n > empty.txt
 ```bash
 cp hello.txt goodbye.txt
 ```
+
+#### 14. (B) Rename "goodbye.txt" to "hello_copy.txt".
+
+```bash
+
+```
