@@ -89,3 +89,9 @@ rm empty.txt
 ```bash
 > empty.txt
 ```
+
+#### 12. (I) Find a third way to solve challenge 9.
+
+```bash
+
+```
