@@ -95,3 +95,9 @@ rm empty.txt
 ```bash
 echo -n > empty.txt
 ```
+
+#### 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
+
+```bash
+
+```
