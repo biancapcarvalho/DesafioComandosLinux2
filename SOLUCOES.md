@@ -11,7 +11,6 @@ tar -xf challenges.tar.gz
 > *Anotações:* Como primeira tentativa tentei tar -x challenges.tar.gz e não funcionou <br>
 > O comando tar é antigo e seu alvo eram fitas magnéticas, deve-se usar a flag f para indicar que é um arquivo específico
 
-<br>
 
 #### 2. (B) Change your working directory to the "challenges" directory that was created when you extracted "challenges.tar.gz"
 
@@ -19,7 +18,6 @@ tar -xf challenges.tar.gz
 cd challenges
 ```
 
-<br>
 
 #### 3. (B) List the contents of the "challenges" directory.
 
@@ -30,7 +28,6 @@ ls
 > *Anotações:* A saída do comando foi <br>
 > bunch_of_files  challenge_20  compile_me.c  greeting1.txt  greeting2.txt  hello_executable  people.csv  redirect  restricted.txt
 
-<br>
 
 #### 4. (B) Create a new directory named "foo".
 
@@ -38,7 +35,6 @@ ls
 mkdir foo
 ```
 
-<br>
 
 #### 5. (I) Create a new directory named "foo/bar/1/2/3"
 
@@ -46,7 +42,6 @@ mkdir foo
 mkdir -p foo/bar/1/2/3
 ```
 
-<br>
 
 #### 6. (B) Remove the directory "foo" and all of its contents
 
@@ -56,15 +51,12 @@ rm -fr foo
 
 > *Anotações:* a flag ```r``` é usada para apagar subdiretórios, e a ```f``` para não pedir confirmação
 
-<br>
 
 #### 7. (B) Print the text "Hello World".
 
 ```bash
 echo "Hello World"
 ```
-
-<br>
 
 #### 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
 
@@ -106,4 +98,10 @@ cp hello.txt goodbye.txt
 
 ```bash
 mv goodbye.txt hello_copy.txt
+```
+
+#### 15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are identical.
+
+```bash
+diff hello.txt hello_copy.txt
 ```
