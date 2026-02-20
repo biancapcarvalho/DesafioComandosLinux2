@@ -87,5 +87,5 @@ rm empty.txt
 #### 11. (I) Find a second way to solve challenge 9.
 
 ```bash
-
+> empty.txt
 ```
