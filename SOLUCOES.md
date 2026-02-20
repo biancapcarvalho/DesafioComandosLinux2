@@ -93,5 +93,5 @@ rm empty.txt
 #### 12. (I) Find a third way to solve challenge 9.
 
 ```bash
-
+echo -n > empty.txt
 ```
