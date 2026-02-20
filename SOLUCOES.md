@@ -105,5 +105,5 @@ cp hello.txt goodbye.txt
 #### 14. (B) Rename "goodbye.txt" to "hello_copy.txt".
 
 ```bash
-
+mv goodbye.txt hello_copy.txt
 ```
