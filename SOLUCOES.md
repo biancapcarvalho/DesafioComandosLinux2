@@ -153,3 +153,9 @@ chmod 664 restricted.txt && echo "some text" >> restricted.txt
 ```bash
 ./hello_executable
 ```
+
+#### 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
+
+```bash
+
+```
