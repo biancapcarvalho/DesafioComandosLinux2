@@ -157,5 +157,5 @@ chmod 664 restricted.txt && echo "some text" >> restricted.txt
 #### 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
 
 ```bash
-
+chmod 777 challenge_20 && ./challenge_20
 ```
