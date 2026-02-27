@@ -117,3 +117,5 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
 ```bash
 pwd
 ```
+
+#### 18. (B) List the contents of the "challenges" directory (like challenge 3), but show the permissions for each file.
