@@ -119,3 +119,8 @@ pwd
 ```
 
 #### 18. (B) List the contents of the "challenges" directory (like challenge 3), but show the permissions for each file.
+
+```bash
+ls -l
+```
+> *Anotações:* Não existe arquivo challenge 3, existe challenge_20 (testei ls -a e não tem mesmo)
