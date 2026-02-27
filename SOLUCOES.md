@@ -111,3 +111,9 @@ diff hello.txt hello_copy.txt
 ```bash
 cat hello.txt hello_copy.txt > 2_hellos.txt
 ```
+
+#### 17. (B) Get the full path of your present working directory ("challenges").
+
+```bash
+pwd
+```
