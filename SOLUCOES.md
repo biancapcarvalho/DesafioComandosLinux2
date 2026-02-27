@@ -107,3 +107,7 @@ diff hello.txt hello_copy.txt
 ```
 
 #### 16. (B) Concatenate the contents of "hello.txt" and "hello_copy.txt" and store the result in a file named "2_hellos.txt".
+
+```bash
+cat hello.txt hello_copy.txt > 2_hellos.txt
+```
