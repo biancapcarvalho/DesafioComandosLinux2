@@ -146,10 +146,10 @@ chmod 664 restricted.txt && echo "some text" >> restricted.txt
 > bash: restricted.txt: Permission denied
 > ```
 >
-> E só depois dissso fiz de fato o desafio
+> E só depois disso fiz de fato o desafio
 
 #### 20. (B) Run the "hello_executable" program.
 
 ```bash
-
+./hello_executable
 ```
