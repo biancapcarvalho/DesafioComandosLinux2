@@ -124,3 +124,9 @@ pwd
 ls -l
 ```
 > *Anotações:* Não existe arquivo challenge 3, existe challenge_20 (testei ls -a e não tem mesmo)
+
+#### 19. (B) Append some text to the end of "restricted.txt". It's OK to do this in 2 steps.
+
+```bash
+
+```
