@@ -128,5 +128,28 @@ ls -l
 #### 19. (B) Append some text to the end of "restricted.txt". It's OK to do this in 2 steps.
 
 ```bash
+chmod 664 restricted.txt && echo "some text" >> restricted.txt
+```
 
+> *Anotações:* o arquivo restricted.txt não estava sem permissão de escrita:
+> ```bash
+> bianca@bianca-ubuntu-vm:~/IdeaProjects/DesafioComandosLinux2/challenges$ ls -l restricted.txt
+> -rw-rw-r-- 1 bianca bianca 50 fev 27 18:10 restricted.txt
+> ```
+>
+> Então alterei as permissões:
+> ```bash
+> bianca@bianca-ubuntu-vm:~/IdeaProjects/DesafioComandosLinux2/challenges$ chmod 444 restricted.txt
+> bianca@bianca-ubuntu-vm:~/IdeaProjects/DesafioComandosLinux2/challenges$ ls -l restricted.txt
+> -r--r--r-- 1 bianca bianca 50 fev 27 18:10 restricted.txt
+> bianca@bianca-ubuntu-vm:~/IdeaProjects/DesafioComandosLinux2/challenges$ echo "some text" >> restricted.txt
+> bash: restricted.txt: Permission denied
+> ```
+>
+> E só depois disso fiz de fato o desafio
+
+#### 20. (B) Run the "hello_executable" program.
+
+```bash
+./hello_executable
 ```
